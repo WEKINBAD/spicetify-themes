@@ -6,6 +6,10 @@
 ![dark-1](screenshots/dark-1.png)
 ![dark-2](screenshots/dark-2.png)
 
+### Dark-purple
+![dark-purple-1](screenshots/dark-purple_1.png)
+![dark-purple-1](screenshots/dark-purple_2.png)
+
 ### Comfy
 ![comfy-1](screenshots/comfy-1.jpg)
 ![comfy-2](screenshots/comfy-2.jpg)
